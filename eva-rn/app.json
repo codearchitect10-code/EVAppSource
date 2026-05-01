@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "EVA",
+    "slug": "eva-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#060A12"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.elitevita.eva"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#060A12"
+      },
+      "package": "com.elitevita.eva"
+    },
+    "fonts": [
+      "./assets/fonts/PlusJakartaSans-Regular.ttf",
+      "./assets/fonts/PlusJakartaSans-Medium.ttf",
+      "./assets/fonts/PlusJakartaSans-SemiBold.ttf",
+      "./assets/fonts/PlusJakartaSans-Bold.ttf",
+      "./assets/fonts/PlusJakartaSans-ExtraBold.ttf",
+      "./assets/fonts/Gilroy-Regular.ttf",
+      "./assets/fonts/Gilroy-Medium.ttf",
+      "./assets/fonts/Gilroy-SemiBold.ttf",
+      "./assets/fonts/Gilroy-Bold.ttf",
+      "./assets/fonts/Gilroy-ExtraBold.ttf"
+    ]
+  }
+}
