@@ -99,4 +99,3 @@ const MiniDNA = ({ w = 60, h = 40, emerald: emeraldProp, gold: goldProp }) => {
 
 export default MiniDNA;
 
-export default MiniDNA;

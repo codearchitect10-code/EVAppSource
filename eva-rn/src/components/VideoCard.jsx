@@ -214,7 +214,7 @@ const VideoCard = ({ title, duration, permanent }) => {
           </View>
           {!permanent && (
             <TouchableOpacity
-              onPress={(e) => { setDismissed(true); }}
+              onPress={() => { setDismissed(true); }}
               style={[styles.dismissBtn, { backgroundColor: `${t.t3}20` }]}
             >
               <CloseIcon size={10} color={t.t3} />
